@@ -1,6 +1,0 @@
-// default.json
-
-{
-    "mongoURI":
-        "mongodb+srv://dewi:OUUyvG1od5K6Hf0r@cluster0.vfexx4i.mongodb.net/?retryWrites=true&w=majority"
-}
